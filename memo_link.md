@@ -1,6 +1,6 @@
 # ETOPO Global Relief Model
 
-## Grid Extract
+## NOAA Grid Extract
 
 來源：<https://www.ncei.noaa.gov/products/etopo-global-relief-model>
 
