@@ -28,4 +28,3 @@ https://www.ncei.noaa.gov/products/etopo-global-relief-model
 不分幅_澎湖20MDEM(2025)	航空攝影測量	數值高程模型資料	TWD97(N、E、H)	2025年	https://www.tgos.tw:443/MDE/VirtualDir_TC/Product/47910269-7315-4cd2-9101-7cdf524b47f5/不分幅_澎湖20MDEM(2025).zip
 不分幅_金門20MDEM(2025)	航空攝影測量	數值高程模型資料	TWD97(N、E、H)	2025年	https://www.tgos.tw:443/MDE/VirtualDir_TC/Product/0e018335-80f1-4489-990c-ecf2bef1a9b6/不分幅_金門20MDEM(2025).zip
 不分幅_台灣20MDEM(2025)	航空攝影測量	數值高程模型資料	TWD97(N、E、H)	2025年	https://www.tgos.tw:443/MDE/VirtualDir_TC/Product/528530be-0710-431e-954e-2f2f5e98b0c5/不分幅_全台20MDEM(2025).zip
-<img width="32766" height="573" alt="image" src="https://github.com/user-attachments/assets/a137ea91-59ab-46da-9690-68e3cc23bd8c" />
