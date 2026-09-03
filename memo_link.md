@@ -4,6 +4,8 @@
 
 來源：<https://www.ncei.noaa.gov/products/etopo-global-relief-model>
 
+## 內政部DEM 20 公尺 : https://data.gov.tw/dataset/176927
+
 | 圖資名稱 | 製作說明 | 圖資類型 | 圖資坐標系統 | 年度 | 連結網址 |
 | --- | --- | --- | --- | --- | --- |
 | 分幅_檔頭欄位定義schema_hdr | 詮釋欄位定義 | DEM之詮釋資料欄位 | TWD97(N、E、H) | 2025年 | <https://www.tgos.tw:443/MDE/VirtualDir_TC/Product/342505d1-81bc-490a-8e10-9f7e1ec0ed98/schema_hdr.zip> |
